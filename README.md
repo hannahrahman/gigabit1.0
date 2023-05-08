@@ -6,6 +6,12 @@ Gigabit 1.0 is a comprehensive application that allows you to easily track your 
 
 # How to set up
 1. Download as a Zip File
-2. Open a Code Editor of your choice. 
+2. Open in a Code Editor of your choice. 
 3. Run the code!
 
+# Creators
+
+1. Sheikha Hanna Rahman
+2. Rushini Thiranya
+3. Chathura Prabath Jayasingha
+4. Rashmika Rajapaksha
