@@ -1026,7 +1026,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background: #f6f6f7;
 }
 
 .team .member {
@@ -1119,6 +1119,11 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
+.contact{
+  background-color: #f6f6f7;
+}
+
 .contact .info {
   padding: 30px;
   width: 100%;
@@ -1448,4 +1453,8 @@ section {
   background: #00805d;
   color: #fff;
   text-decoration: none;
+}
+
+.testimonials{
+  background: #fff;
 }
