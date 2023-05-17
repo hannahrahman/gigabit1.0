@@ -1120,7 +1120,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 
-.contact{
+.contact {
   background-color: #f6f6f7;
 }
 
@@ -1455,7 +1455,7 @@ section {
   text-decoration: none;
 }
 
-.testimonials{
+.testimonials {
   background: #fff;
 }
 
@@ -1478,3 +1478,14 @@ section {
   background-color: #4CAF50;
 }
 
+.video-container {
+  max-width: 500px;
+  margin: 0 auto;
+  border: 2px solid green;
+  padding: 4px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
